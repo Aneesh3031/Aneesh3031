@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Aneesh Mhasawade
 
-I am a second-year Engineering student focused on building robust software, mastering programming systems, and exploring data structures. I enjoy turning complex logic into functional, clean, and efficient applications.
-
+I am a second-year Engineering student focused on building robust software, mastering programming systems, and exploring data structures.I have keen interest in Artificial Intelligence specifically in Model Training and would like to explore it.
 ---
 
 ### 🛠️ Tech Stack & Toolkit
