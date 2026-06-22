@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aneesh Mhasawade
 
-I am a second-year Engineering student focused on building robust software, mastering programming systems, and exploring data structures.I have keen interest in Artificial Intelligence specifically in Model Training and would like to explore it.
+I am a Second-year Engineering student focused on building robust software, mastering programming systems, and exploring data structures.I have keen interest in Artificial Intelligence specifically in Model Training and would like to explore it.
 ---
 
 ### 🛠️ Tech Stack & Toolkit
@@ -15,7 +15,7 @@ I am a second-year Engineering student focused on building robust software, mast
 
 ### 🚀 What I'm Up To & Goals for Year 2
 * 🔭 **Current Focus:** Enhancing application workflows, scaling modular programs, and diving deeper into algorithm analysis.
-* 🌱 **Learning Path:** Advanced Object-Oriented paradigms, database integrations, and cross-language development with Java and C++.
+* 🌱 **Learning Path:** Advanced Object-Oriented paradigms, database integrations, and cross-language development with Java and Python.
 * 👯 **Collaboration:** Open to collaborating on utility-focused tools, algorithmic challenges, or systems projects.
 * ⚡ **Fun Fact:** When I'm not tracing code paths or debugging scripts, you'll probably find me pushing limits at CrossFit or working out!
 
